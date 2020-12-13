@@ -1,0 +1,23 @@
+---
+title: 'Review: The Dying Earth'
+description: A review of The Dying Earth by Jack Vance.
+date: 2020-10-25
+tags: ['review', 'books']
+layout: layouts/post.njk
+---
+
+Notions of apocalypse have gripped the human imagination for millennia, and apocalyptic fiction remains a familiar presence across all of pop culture. I've never felt particularly drawn towards the subgenre myself, but I was enamoured by the subtly different spin on it in Gene Wolfe's [Book of the New Sun](/posts/botns/). Instead of a specific cataclysmic event caused by the hubris of man or the unpredictable wrath of celestial forces, Wolfe's apocalypse is simply the natural, entropic conclusion of a tired world that has run its course. Reading Wolfe naturally led me to Jack Vance, and while Vance did not pioneer this flavour of apocalypse, he certainly popularised it such that his famous work has lent it a familiar name: The Dying Earth.
+
+[*The Dying Earth*](https://www.goodreads.com/book/show/951749.The_Dying_Earth) is a collection of six short stories published in 1950. Each story is self-contained, but they take place on the same Earth of a distant future when the sun is a dim, red echo of itself, evoking a quiet but persistent sense of melancholy and nihilism. Reading this book is akin to falling into a painting (I imagine), and Vance depicts a dizzying range of fully realised landscapes by using a masterful economy of words. This is a truly vivid and surreal journey, taking readers from the lush forests of Ascolais and its bizarre inhabitants to the decaying magitech-powered city of Ampridatvir. 
+
+Vance writes with a distinct style, blending starchy, ceremonious dialogue with fantasy and pulpy tropes. The end result is stories with a mythological bent but a definite down-to-earth, sword and sorcery feel. He is fond of archaic words, some of which I'm half-convinced are made up; as with Gene Wolfe, this often ends up determining whether you love it or hate it. To me, these words are a feature and not a bug, as they imbue the stories with a decadent, almost Tolkienesque atmosphere. In place of elves, dwarves, and orcs, Vance shows us some refreshingly original creatures, such as Twk-Men (tiny salt-loving men who ride on dragonflies) and pelgranes (bird-men who prey on unwitting travellers). 
+
+Speaking of Tolkien, whose influence pervades so much of modern fantasy, Vance's legacy can be easily identified in many titans of SF/F. Besides the aforementioned Book of the New Sun, the D&D role-playing game owes its magic system to Vance's depiction of the use of spells. The city of Ampridatvir bears a striking resemblance to the twin cities of Besźel and Ul Qoma in China Miéville's [*The City and the City*](/posts/city-city/). There are many more sources of inspiration like these that a reader more experienced than I would be able to identify. 
+
+While there are nods to big ideas such as biotechnology, the stories lack thematic complexity, which is understandable given that they are among Vance's earliest publications. Where *The Dying Earth* excels is at pure storytelling, the ability of a good yarn to entertain strangers by the proverbial campfire, and Vance does a great job in combining elements of sci-fi, fantasy, and horror to bedazzle, thrill, and terrify (some of his creatures such as Blikdak, Chun the Unavoidable, and the oasts are very unsettling). I think they've aged well, and I'm curious to see how his writing matured over time. 
+
+One thing you won't find in *The Dying Earth* is nuanced and meaningful character development, mainly because these are short stories in a shared setting, but also because the characters are rather superficial. It feels almost as if they are puppets on a stage that came straight out of myths and fairy-tales of our own world. I don't mind the weak characterisation, as Vance's style and imagination more than make up for it. Another pitfall is the invariable objectification of women, though I understand Vance's writing is much less overtly sexist than many of his contemporaries. Still, it's pretty damning that the male hero and female trophy archetype of the first story doesn't change much throughout *The Dying Earth*.
+
+For readers interested in the classic roots of genre fiction, this is surely one that mustn't be missed. Many fans of Jack Vance suggest the later entries in the *Tales of the Dying Earth* collection - the Cugel stories, specifically - are a better introduction to Vance's works, but it takes no time at all to go through these six stories, and come away with an intricately detailed dreamscape of a dying earth. 
+
+Day 26 of [#100DaysToOffload](https://100daystooffload.com/)

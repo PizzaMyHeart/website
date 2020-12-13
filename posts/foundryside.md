@@ -1,0 +1,33 @@
+---
+title: "Review: Foundryside"
+description: A review of Foundryside by Robert Jackson Bennett.
+date: 2020-06-14
+tags: ['review', 'books']
+layout: layouts/post.njk
+---
+
+*May contain spoilers.*
+
+*Foundryside* is the first novel of a planned fantasy trilogy by Robert Jackson Bennett. The story opens with Sancia, a thief on her way to steal a mysterious key. She finds herself in constant danger after obtaining the key, when many powerful people in the city try to hunt her down.
+
+I wasn't impressed going in. The opening scene is a pretty standard fantasy heist, but with lots of heavy-handed exposition and info dumping. Not a great start, in other words. And the main character, Sancia, reminded me an awful lot of Vin from the *Mistborn* series&mdash;another thief with a mysterious power that aids her thievery. It doesn't help that this power is constantly referred to as Sancia's "talent". I cringed a little every time that was mentioned.
+
+But the setting drew me in almost immediately. In my mind, the city of Tevanne contains many echoes of Dunwall from the video game [*Dishonored*](https://en.wikipedia.org/wiki/Dishonored), with its smoking foundries and dark alleyways. Tevanne is composed largely of four powerful merchant houses, each with its own campo (enclave), casting a long shadow over the regular folk who live in the Commons. It's an industrialised steampunk city built on scriving, the magical system that underlies every piece of technology. Scrivers can inscribe symbols on objects to bend them to their will. For example, construction beams can be scrived to adhere to each other more tightly than if they are merely nailed or bound together. Buildings everywhere in Tevanne are made of such scrived materials. This is but a mundane example of the many fantastical and wildly imaginative things we see later on. 
+
+Tevanne is obviously inspired by Renaissance Italy, described using various wonderful Italian-esque neologisms, but the mysterious Occident that lies to the west also intrigued me greatly. The Occident was once the land of the hierophants, mortal men who gained terrifying godlike powers through inhumane rituals. I thought the imagery of sinister priests performing rituals that tampered with human souls in great tombs hidden under sandy deserts juxtaposes quite nicely with fantasy Renaissance Italy.
+
+It didn't take long for me to realise that *Foundryside* is really a cyberpunk novel in fantasy clothing. Scrivers are like computer programmers, and they scrive objects (write code) to make them perform useful functions. Scriving even involves defining basic parameters such as distance, weight, and so on, which further solidifies the resemblance to programming. Changing these scriving definitions can cause scrived objects to behave differently from their intended function&mdash;just like hacking. Here in Tevanne, the campos fulfil the role of the big bad corporations of the cyberpunk aesthetic. There's even an AI-like entity, known as a "Construct". And you know what? This fusion of subgenres didn't feel gimmicky at all; I'm unapologetically, 100% on board.
+
+The story gets going pretty quickly, and it keeps its foot firmly on the pedal right to the end. Loads of thrilling action and startling twists kept me turning page after page after page, and I tore through the entire novel in just two days. The overall plot is nothing groundbreaking, but it's well-paced enough that I was never bored or confused. Though there was never a dull moment, each character still felt like they were given enough room to develop in my mind.
+
+And the characters are wonderfully drawn and brimming with personality, each one of them possessing more than meets the eye. Sancia, despite her unique abilities, never feels like an annoying Chosen One/Mary Sue. Importantly, her struggles feel *real*. Gregor is the scion of the Dandolo household who gives up his glamorous position, and instead patrols the lawless waterfront to impose some semblance of justice and order. Orso is the head scriver, or hypatus, of House Dandolo, and he comes off as a real jerk before (and even after, actually) joining forces with Sancia. But his prickly-with-a-heart-of-gold character has enough emotional resonance to avoid feeling trope-y. Berenice is Orso's assistant with an eidetic memory, which makes her a real badass scriver. The cherry on top is the interactions between these characters, as well as the ways in which they are introduced to each other.
+
+Even the scrived objects make for some compelling minor characters. Sancia's main ability allows her to 'see' scrivings, and hear the thoughts of scrived objects. From run-of-the-mill scrived locks to the Candiano Mountain, every scrived object has a distinctive and colourful voice. Who knew inanimate objects could be so endearing?
+
+Underneath all that rip-roaring action are allusions to freedom and oppression. Sancia is a former slave who fled the plantations in search of a better life in Tevanne. Along with the casual brutality dealt abundantly to the enslaved, Sancia was experimented on in horrific ways during her time at the plantation. Gregor gets his own taste of an even more extreme form of enslavement, when he loses control of his body and gets used as a killer automaton. These are heavy themes that don't really get much more than surface treatment, but they occupy a more central spot in the sequel, *Shorefall*.
+
+The info-dumps get less annoying as the story progresses, but the exposition is still clunky sometimes. Characters' thoughts often feel really artificial and are obvious vehicles for exposition. Like *"I need to get out of here!"* or *"This feels like a trap!"* type of thoughts. It's not just that Bennett tells way more than he shows; I also didn't like how nothing is left to the reader's imagination or deduction. That's not to say that Bennett can't write well, however, because he paints stunningly vivid images. His prose is economical in a graceful way. He uses analogies and metaphors that just click. The dialogue feels natural and engaging. He *can* write very well. But he's not subtle, and I frequently felt like the pages were being rudely swatted at my nose. 
+
+In short, *Foundryside* feels like a nice blend of *Dishonored*, *The Lies of Locke Lamora*, and the first *Mistborn* trilogy. If you wish fantasy heist novels had more, well, *heists* in them, this novel will be right up your alley. In any case, I wholeheartedly recommend *Foundryside* if you're looking for a fun and easy read. 
+
+Day 8 of [#100DaysToOffload](https://100daystooffload.com/)

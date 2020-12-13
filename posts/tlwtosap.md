@@ -1,0 +1,22 @@
+---
+title: "Review: The Long Way to a Small, Angry Planet"
+description: A review of The Long Way to a Small, Angry Planet by Becky Chambers.
+date: 2020-07-11
+tags: ['review', 'books']
+layout: layouts/post.njk
+---
+[*The Long Way to a Small, Angry Planet*](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) is Becky Chambers' debut novel. Chambers initially self-published it as part of a Kickstarter campaign, making waves in the speculative fiction community before it got picked up swiftly and republished via the traditional route. 
+
+This novel with its mouthful of a title focuses on the crew of the *Wayfarer*, contractors who build tunnels (wormholes, I think?) that connect distant areas of the Galactic Commons. We follow this diverse, not-exclusively-human cast of characters on their journey to the eponymous planet. This novel has been described as '[slice-of-life](https://tvtropes.org/pmwiki/pmwiki.php/Main/SliceOfLife)' fiction, with not much in the way of plotting and a heavy emphasis on the everyday lives of the characters&mdash;the *Long Way* features much more than the *Small, Angry Planet*. 
+
+I enjoyed the episodic feel of each chapter. However, even though I wasn't expecting lots of quick action and shocking twists, it took me a good while to warm up to the book. Complaining about pacing in a slice-of-life story might sound silly, but some parts detailing the setting can be a little tedious, which slows it down even more. The cosy, optimistic tone which is the selling point for most people&mdash;myself included!&mdash;occasionally tips over into saccharine sweetness, especially when characters are being introduced. If you're after a novel with conventional amounts of conflict, this might not be for you. I was also put off by how cartoonish some of the characters seem, at least at first glance. 
+
+But these negatives fade as the story progresses, and I was hooked slowly but surely. The prose flows easily, and it's descriptive without being overwrought, simple without being lifeless. As obvious as it may seem, the magic really does lie in the characters. Eschewing epic space battles and political intrigue, the dramatic tension of the story emerges from the relationships among the crew of the *Wayfarer*, old and new. Character interactions feel natural and satisfying, and it doesn't hurt that they're wholesome and heartfelt. The warmth and cosiness is balanced out by moments of contemplation, and there are bits that deal with more sombre and dispiriting aspects of life. 
+
+It's not just the characters that make this such an enjoyable story. The Galactic Commons is described in dizzying but consistent detail, along with the fascinating and bizarre groups that inhabit various planets and outposts. The descriptions of food are lovely, from the crab-like red coast bugs to the steaming, fluffy smoky buns. Interspersed throughout are scenes that capture the haunting and awesome beauty of outer space.
+
+Comfort reads don't have to be all fluff and no substance. At its core, this novel is about families of choice. Besides themes surrounding gender, sexuality and inclusivity that are seamlessly woven, there are also brief explorations of colonialism and transhumanism in the great sci-fi tradition. One thing that particularly resonated with me was the story of how humans left Earth and splintered across different pockets of the galaxy; it mirrors how my great-grandparents, along with so many others, left China a century ago in search of a better life. As a minor quibble, I found it a bit strange how quick the non-human characters were to point out the shortcomings of the human species, considering the overarching message of respecting each other's differences. I think the criticisms of the human condition could have been handled with more nuance.
+
+If you liked the parts in Mass Effect where you talk to your crew on the *Normandy*, if you wished you could see the crew members talk to each other more, and if you enjoyed reading the descriptions of cool planets and alien species, then *The Long Way to a Small, Angry Planet* will scratch some itches. I found it a nice book to take me through a couple of weeks of soul-shattering exam prep, a few short chapters at a time, but I'm sure it works just as well as a quick read. It's a cliche at this point, but this is a welcome salve for dark times such as these. 
+
+Day 11 of [#100DaysToOffload](https://100daystooffload.com/)
