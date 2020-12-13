@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Tachy",
+  "url": "https://tachy.org/",
+  "description": "A personal website.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Superluminal thoughts",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://tachy.org/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://tachy.org/feed/feed.json"
   },
   "author": {
     "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "email": "youremailaddress@tachy.org",
+    "url": "https://tachy.org/about-me/"
   }
 }
