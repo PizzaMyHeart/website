@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post 
+---
+
+
+<h1>{{ title }}</h1>
+<br>
+{{ content | safe }}
+
+
+<h5>Would I read this again, if I could start over with a blank slate?: {{ bookyesno }}</h5>
+
+
+<p><a href="{{ '/' | url }}">← Home</a></p>
