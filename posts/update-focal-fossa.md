@@ -66,7 +66,7 @@ This bug was fixed in later releases, but unfortunately the Focal Fossa package 
 
 ## xrandr and dual monitors
 
-I'm almost always connected to a second monitor when I use my x250. Before I updated to Focal Fossa, this line in my i3 config dealt with my dual monitor setup upon starting a session from lightdm:
+I'm almost always connected to a second monitor when I use my x250. Before I updated to Focal Fossa, this line in my [i3](https://i3wm.org/) config dealt with my dual monitor setup upon starting a session from [lightdm](https://wiki.ubuntu.com/LightDM):
 
 	exec xrandr --output eDP1 --primary --left-of HDMI1
 
