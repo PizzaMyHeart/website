@@ -77,3 +77,5 @@ This took me longer than it should have, but changing `eDP1` to `eDP-1` and `HDM
 ## Conclusion
 
 Drivers, am I right? Ugh. What are drivers even. Actually, what *are* drivers? I don't know much beyond the fact that they allow software to communicate with hardware. Time to do some reading ...
+
+Day 28 of [#100DaysToOffload](https://100daystooffload.com/)
