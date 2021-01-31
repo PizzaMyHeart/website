@@ -3,4 +3,4 @@
   command = "DEBUG=* eleventy"
 
 [[plugins]]
-  package = "eleventy-plugin-rss"
+  package = "@11ty/eleventy-plugin-rss"
