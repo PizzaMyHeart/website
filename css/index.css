@@ -46,12 +46,12 @@ p,
 }
 
 /* mobile screens*/
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 420px) {
   p,
 .tmpl-post li {
   line-height: 1.45;
   font-size: 1em;
-}
+  }
 }
 
 a[href] {
@@ -175,6 +175,7 @@ pre {
 }
 .postlist-item {
   counter-increment: start-from -1;
+  margin-bottom: 1em
 }
 .postlist-item:before {
   display: inline-block;
@@ -256,6 +257,11 @@ a[href].direct-link:focus:visited,
   width: 75%;
 }
 
+@media only screen and (max-width: 420px) {
+  #main-container {
+    width: 100%
+  }
+}
 
 
 /* Post titles */
