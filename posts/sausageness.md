@@ -810,4 +810,4 @@ My first instinct was to use mean or median height and length as a measure of ce
 
 I haven't used Matplotlib and Seaborn in a while. Though I love Seaborn for abstracting away a lot of finicky styling decisions, I now realise I need to go through the Seaborn docs properly to understand how it interfaces with Matplotlib. Specifically, I should read up on figure-level and axes level Seaborn functions (in this notebook, the scatter plot and bar plot are figure-level and axes-level functions respectively).
 
-Day 29 of [#100DaysToOffload](https://100daystooffload.com/)
+Day 30 of [#100DaysToOffload](https://100daystooffload.com/)
