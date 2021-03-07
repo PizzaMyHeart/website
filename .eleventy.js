@@ -81,6 +81,17 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
+  /* Markdown Katex for maths */
+  let markdownItKatex = require("markdown-it-katex");
+  let options = {
+    html: true,
+    breaks: false,
+    linkify: true
+  };
+
+  let markdownLib = markdownIt(options).use(markdownItKatex);
+  eleventyConfig.setLibrary("md", markdownLib);
+
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
@@ -129,3 +140,5 @@ module.exports = function(eleventyConfig) {
     }
   };
 };
+
+
