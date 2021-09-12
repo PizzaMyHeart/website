@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## About me
 
-I'm a medical student in the UK with too many hobbies, and exam stress typically results in a Cambrian explosion of new obsessions. Including this website. 
+I'm a ~~medical student~~ doctor ಠ_ಠ in the UK with too many hobbies, and exam/work/life stress typically results in a Cambrian explosion of new obsessions. Including this website. 
 
 You can find me on [Mastodon](https://fosstodon.org/@PizzaMyHeart).
 <br>
